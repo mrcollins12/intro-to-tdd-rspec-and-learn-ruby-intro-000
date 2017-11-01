@@ -1,2 +1,2 @@
 def medium
-end
+end.
